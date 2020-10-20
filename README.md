@@ -29,6 +29,6 @@ sudo apt-get install git
 
 git clone https://github.com/TheTermProgrammer/SimplyScript
 
-The wiki is kinda full becouse i added all the funtion of oll the commands and their sintax, in the shell (using the comand 'hlp') you will see all the commands and
+The wiki is kinda full becouse i added all the function of oll the commands and their sintax, in the shell (using the comand 'hlp') you will see all the commands and
 
 how to write it
