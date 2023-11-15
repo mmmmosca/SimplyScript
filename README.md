@@ -1,14 +1,5 @@
 # SimplyScript
 
-Hello, i'm the developer of this project.
-
-In the last message that i left, wich you can find in the issues section, i said goodbye to this project of almost 3 years.
-
-I can't continue to update it anymore due to limitations with my incapacity of programming and c++ that sucks :).
-
-I hope that someone will read this and read the wiki section of this github page were i explain all the commands.
-
-
-Thank you.
-
-_TheTermProgrammer aka. Cris Cestola_
+This is an educational language.
+It was made to help kids learning the concept of programming and making simple but functional programs.
+But please don't show thisbto your kids, you might traumatize them :/
